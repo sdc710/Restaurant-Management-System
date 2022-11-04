@@ -1,0 +1,11 @@
+item_id, menu_id, item_name, item_description, item_price
+1001,80,Bibimbap, Korean Rice with Mixed Vegeatables,12.5
+1002,80,Bulgogi, Korean BBQ Beef,10.5
+2001,81,Onigiri, Rice Balls,6
+2002,81,Soba, Buckwheat Noodles,10
+3001,82,Sweet and Sour Chicken, Crispy Seasoned Chicken,7.5
+3002,82,Wonton Soup, Chinese Dumpling in a Soup,6.5
+4002,83,Khmer Curry, Rich Flavorful Curry,11
+4003,83,Fish Amok, Curried Fish Steamed in Banana Leaves,8
+5002,84,Pad Thai, Stir-Fried Rice Noodles ,8.5
+5003,84,Bánh mì, Vietnamese Sandwich,7
