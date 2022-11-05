@@ -1,1 +1,1 @@
-# Restaurant-Management-System
+# Database Management Project
